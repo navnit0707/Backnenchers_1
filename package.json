@@ -18,7 +18,10 @@
     },
     "homepage": "https://github.com/navnit0707/Backnenchers_1#readme",
     "dependencies": {
+        "body-parse": "^0.1.0",
+        "events": "^3.3.0",
         "express": "^4.17.3",
+        "mongod": "^2.0.0",
         "nodemon": "^2.0.15"
     }
 }
